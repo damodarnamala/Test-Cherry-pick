@@ -1,6 +1,5 @@
 //
 //  AppDelegate.swift
-//  Test-Cherry-Pick
 //
 //  Created by Damodar Namala on 16/01/2025.
 //
