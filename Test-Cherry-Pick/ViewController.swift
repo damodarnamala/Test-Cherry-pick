@@ -17,7 +17,7 @@ class ViewController: UIViewController {
 
 }
 
-class ThirdViewController: UIViewController {
+class NineViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
